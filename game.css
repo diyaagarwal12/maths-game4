@@ -1,0 +1,115 @@
+body{
+    background-color: #f5d7f7;
+    border-style:solid;
+    border-width: 5;
+    border-color: #a6bbf5;
+}
+    
+
+#Welcome {
+
+    width: 900;
+    height: 600;
+    background-image:url("https://thumbs.dreamstime.com/b/white-neon-round-frame-glowing-tiles-background-leaves-shadow-overlay-horizontal-banner-bright-pink-design-171377477.jpg");
+    background-repeat: no-repeat;
+    opacity: 0.83;
+    display: table;
+    bottom: 0;
+    z-index: 9;
+    margin-left: 250;
+    margin-top: 70;
+    
+   
+}
+
+h1 {
+    line-height: 1.2;
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#heading1{
+    margin-top: 170;
+    margin-left: 265;
+}
+
+#login{
+   size: 50;
+    margin-left: 275; 
+    background-color: #b784e0;
+   
+}
+
+#Login2 {
+
+    width: 100%;
+    height: 100%;
+    background-image:url("https://i.pinimg.com/originals/1e/7b/4a/1e7b4a0078d487cc0a040aead890199d.png");
+    
+    opacity: 0.83;
+    display: table;
+    bottom: 0;
+    z-index: 9;
+    
+    
+   
+}
+
+#player1log{
+    margin-top: 100;
+}
+
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#page_body{
+    background-color: #f5d7f7;
+    border-style:solid;
+    border-width: 30;
+    border-color: #a6bbf5;
+}
+
+#heading2{
+    color: #b30b40;
+}
